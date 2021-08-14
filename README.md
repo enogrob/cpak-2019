@@ -16,3 +16,4 @@ Check out all the latest videos and podcasts from BRI, the Conference on Precess
 ## Topics
 
 * [x] [Alistair Coombs - The Prehistoric Zodiac](https://www.youtube.com/watch?v=7l5lG9oLweI&list=PLcWlmdLJ3zRtqnddQpvfivRXUBJ3KXz2w&index=16)
+* [x] [Dr. Carmen Boulter - Sacred Cosmology of Ancient Egypt](https://www.youtube.com/watch?v=3_2MNNHWyW0&list=WL&index=16&t=32s)
